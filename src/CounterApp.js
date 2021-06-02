@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 // rafcp
+// rafcp
 // Crea funcional component con prop-types
 // Buscar los diferentes snippets para los rafc, rafcp, rafce
 import React, { useState } from 'react'
